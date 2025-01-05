@@ -1,4 +1,4 @@
-# frontend-2
+# Frontend-2
 Landing page front-end conversion.
 
 ### Technologies:
