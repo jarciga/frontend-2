@@ -1,5 +1,5 @@
 # frontend-2
-Landing page front-end conversion
+Landing page front-end conversion.
 
 ### Technologies:
 HTML, JS
